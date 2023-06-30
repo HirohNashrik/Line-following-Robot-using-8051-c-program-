@@ -1,0 +1,4 @@
+"..\HTML\STARTUP.obj",
+"..\HTML\89.obj" 
+TO "..\HTML\at89" 
+PRINT(".\Listings\at89.m51")
